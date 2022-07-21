@@ -1,0 +1,36 @@
+/* h1{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.img{
+    width: 33%;
+    height: 300px;
+}
+input{
+    padding: 10px;
+    width: 97%;
+    margin-top: 10px;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+
+}
+.item{
+    margin: auto;
+    width: 70vw;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+    margin-top: 10px;
+} */
+.background{
+    background-color: rgb(194, 28, 188);
+}
